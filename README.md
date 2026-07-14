@@ -2,7 +2,9 @@
 <h3 align="center">A fullstack developer from Brazil!</h3>
 
 ---
+
 <h3 align="left">Currently studying JavaScript and React</h3>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
