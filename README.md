@@ -20,13 +20,19 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafaelcrempe/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/rafaelcrempe/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:rafaelcrempe@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <span>
+    <a href="https://www.linkedin.com/in/rafaelcrempe/">
+       <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </span>
+  <span>
+    <a href="https://www.instagram.com/rafaelcrempe/">
+      <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+  </span>
+  <span>
+    <a href="mailto:rafaelcrempe@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+   </a>
+  </span>
 </p>
