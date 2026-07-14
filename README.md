@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rafael</h1>
+<h3 align="center">A fullstack developer from Brazil!</h3>
+<h4 align="center">Currently studying JavaScript and React</h3>
 
-<!--
-**rafaelcrempe/rafaelcrempe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql, postgres,sqlite,docker,jest" />
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafaelcrempe/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rafaelcrempe@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/rafaelcrempe/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
