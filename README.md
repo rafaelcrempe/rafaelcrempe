@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Rafael</h1>
 <h3 align="center">A fullstack developer from Brazil!</h3>
 
-
+---
 <h3 align="left">Currently studying JavaScript and React</h3>
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -11,6 +12,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,jest" />
 </p>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
