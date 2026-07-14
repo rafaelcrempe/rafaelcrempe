@@ -6,7 +6,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql, postgres,sqlite,docker,jest" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,jest" />
 </p>
 ---
 
